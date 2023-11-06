@@ -2104,6 +2104,14 @@ input, select, textarea {
 			font-size: 0.9em;
 		}
 
+		@media screen and (max-width: 736px) {
+
+			#logo img {
+				transform: scale(0.7);
+			}
+		
+		}
+
 /* Nav */
 
 	#nav {
