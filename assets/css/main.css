@@ -2945,8 +2945,8 @@ input, select, textarea {
 
 			#intro {
 				text-align: center;
-				padding-right: 2em;
-				padding-left: 2em;
+				padding-right: 1em;
+				padding-left: 1em;
 				padding-bottom: 5em;
 				margin: 0 auto;
 			}
