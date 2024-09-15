@@ -3024,3 +3024,15 @@ input, select, textarea {
 						}
 
 	}
+
+	.youtube-container {
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .youtube-container iframe {
+        aspect-ratio: 16 / 9;
+        width: 100% !important;
+    }
+
