@@ -2109,7 +2109,7 @@ input, select, textarea {
 			#logo img {
 				transform: scale(0.7);
 			}
-		
+
 		}
 
 /* Nav */
@@ -3029,10 +3029,18 @@ input, select, textarea {
         display: flex;
         justify-content: center;
     }
-    
-    
+
+
     .youtube-container iframe {
         aspect-ratio: 16 / 9;
         width: 100% !important;
     }
 
+.alert-info-box {
+  padding: 12px 16px;
+  margin: 8px 0;
+  border: 1px solid #b6effb;
+  border-radius: 6px;
+  background-color: #cff4fc;
+  color: #055160;
+}
